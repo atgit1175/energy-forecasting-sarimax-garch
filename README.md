@@ -1,6 +1,6 @@
 # A Tale of Two Grids: Forecasting Electricity in Texas vs. New York
 
-**Lucas Azenha & Anya Tu — Columbia University, 2026**
+**Anya Tu — Columbia University, 2026**
 
 Can a seasonal ARIMA model, paired with a GARCH volatility model, forecast daily statewide electricity in Texas and New York? And what does the difference in forecast accuracy say about the two grids?
 
